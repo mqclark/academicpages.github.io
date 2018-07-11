@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Matthew Q. Clark"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Damn dirty ape"
+  location         : "Caltech"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=bVaQiOMAAAAJ&hl=en"
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mqclark"
+  github           : "mqclark"
   google_plus      :
   keybase          :
   instagram        :
